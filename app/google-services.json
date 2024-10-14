@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66029903601",
+    "project_id": "meta-app-mtz",
+    "storage_bucket": "meta-app-mtz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66029903601:android:0847784eb8e4317f489350",
+        "android_client_info": {
+          "package_name": "com.metricaz.metaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUu9tvJEoa-W-r9pfBYDMCuEJR95i7HW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
